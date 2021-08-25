@@ -17,7 +17,5 @@ models.map(function(e) {
   newButton.addEventListener("click", function() {
 
     viewer.src = e;
-    console.log("Hi");
-    console.log(e);
   });
 });
