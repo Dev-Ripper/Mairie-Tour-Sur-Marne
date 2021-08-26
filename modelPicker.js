@@ -1,7 +1,11 @@
 const models = [
   "models/BATEAU_LAVOIR.glb",
   "models/EGLISE.glb",
-  "models/MAIRIE.glb"
+  "models/MAIRIE.glb",
+  "models/PONT_1.glb",
+  "models/PONT_2.glb",
+  "models/PONT_3.glb",
+  "models/REMPART.glb"
 ];
 
 const viewer = document.getElementById("viewer");
