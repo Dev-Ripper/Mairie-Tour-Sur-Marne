@@ -15,7 +15,6 @@ models.map(function(e) {
   container.style.top = "0";
   container.style.left = "0"
   newButton.addEventListener("click", function() {
-
     viewer.src = e;
   });
 });
