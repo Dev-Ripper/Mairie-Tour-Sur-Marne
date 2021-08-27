@@ -1,5 +1,10 @@
 const models = [
   {
+    model : "models/MAIRIE/MAIRIE.glb",
+    nom: "Mairie"
+  },
+  
+  {
     model : "models/BATEAU_LAVOIR/BATEAU_LAVOIR.glb",
     nom: "Bateau Lavoir"
   },
@@ -7,11 +12,6 @@ const models = [
   {
     model : "models/EGLISE/EGLISE.glb",
     nom: "Eglise"
-  },
-
-  {
-    model : "models/MAIRIE/MAIRIE.glb",
-    nom: "Mairie"
   },
 
   {
